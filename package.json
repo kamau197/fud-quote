@@ -1,0 +1,13 @@
+{
+  "name": "food-quotes",
+  "version": "1.0.0",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
